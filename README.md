@@ -1,3 +1,2 @@
-## PolitePatriotBot
-### Telegram bot
+## Telegram bot Polite Patriot
 ### https://t.me/PolitePatriotBot
