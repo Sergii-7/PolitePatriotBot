@@ -1,3 +1,3 @@
 ## PolitePatriotBot
-###Telegram bot
-###https://t.me/PolitePatriotBot
+### Telegram bot
+### https://t.me/PolitePatriotBot
